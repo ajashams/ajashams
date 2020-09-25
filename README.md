@@ -13,7 +13,7 @@
 ![Image of things exploding behind man](https://github.com/ajashams/ajashams/blob/master/nothing.gif)
 
 
-### But hit me up if you need design work or feedback on work! ✨
+### But hit me up if you need design work or feedback! ✨
 ![Image of guy being underwhelmed by design](https://github.com/ajashams/ajashams/blob/master/underwhelmed.gif)
 
 
@@ -21,9 +21,9 @@
 ![Image of awkward embrace](https://github.com/ajashams/ajashams/blob/master/hello.gif)
 
 
-### And if I broke something, then I'm sorry – I'll be on PTO for the next ten years. 😬  
+### And if I broke something, then I'm sorry 😬  
 ![Image of running away](https://github.com/ajashams/ajashams/blob/master/bail.gif)
-
+ 
 
 ## More random stuff about me
 - 🦀  I'm a cancer. Be kind. 
