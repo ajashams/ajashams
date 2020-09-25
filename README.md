@@ -18,7 +18,7 @@
 
 
 ### But I _AM_ pretty good at design! 💅🏽
-![Image of woman flipping hair](https://github.com/ajashams/ajashams/blob/master/beyonce.gif)
+![Image of woman flipping hair](https://github.com/ajashams/ajashams/blob/master/beyonce2.gif)
 
 
 ### So hit me up if you need design work or feedback! ✨
