@@ -25,11 +25,11 @@
  
 
 ## More random stuff about me
-- 🦀  I'm a cancer. Be kind. 
-- 🏡  I'm from Cincinnati, Ohio and like horrible things like Skyline Chili and the Bengals. And yes, I hate myself for it.
-- 🍻  But i live in Chicago now which is my favorite place in the world! (except during the months of Nov – Apr)
-- ✊🏽  I'm biracial and believe in equality for all. But on that same note, **Black Lives Matter** and please hire more women.
-- 💬  I go by she/her/hers
+- 🦀 - I'm a cancer. Be kind. 
+- 🏡  - I'm from Cincinnati, Ohio and like horrible things like Skyline Chili and the Bengals. And yes, I hate myself for it.
+- 🍻  - But i live in Chicago now which is my favorite place in the world! (except during the months of Nov – Apr)
+- ✊🏽  - I'm biracial and believe in equality for all. But on that same note, **Black Lives Matter** and please hire more women.
+- 💬  - I go by she/her/hers
 
 ![Image of person twirling](https://github.com/ajashams/ajashams/blob/master/twirl.gif)
 
