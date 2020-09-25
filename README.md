@@ -9,20 +9,24 @@ Okay, here are some things you should know about me
 ## But I have no idea how to code
 ![Image of dog surrounded by fire](https://github.com/ajashams/ajashams/blob/master/fine.gif)
 
-## Which means I'll be pretending to know how to build things 
-While mostly relying on my incredible team.
+## Which means I'll be pretending to know how to build things
+While mostly relying on my [incredible team](https://github.com/github/site-design) for assistance. 
+
 ![Image of things exploding behind man](https://github.com/ajashams/ajashams/blob/master/nothing.gif)
 
 ## But hit me up if you need design work or feedback on work!
 I'm more than happy to help offer my skills, coaching and guidance wherever possible.
+
 ![Image of guy being underwhelmed by design](https://github.com/ajashams/ajashams/blob/master/underwhelmed.gif)
 
 ## And reach out if you'd like to collaborate on an initiative!
 I love new processes and bringing content, design, technology and research together. 
+
 ![Image of awkward embrace](https://github.com/ajashams/ajashams/blob/master/hello.gif)
 
 ## If you're here because I broke something, then I'm sorry 😬  
 We're both gonna need extra help if it's code related. but I got you if it's a design fix! 
+
 ![Image of running away](https://github.com/ajashams/ajashams/blob/master/bail.gif)
 
 ## Thanks for visiting my page! You made this write-up worth it.
