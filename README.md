@@ -17,7 +17,7 @@
 ![Image of guy being underwhelmed by design](https://github.com/ajashams/ajashams/blob/master/underwhelmed.gif)
 
 
-### Or reach out if you'd like to collaborate on an initiative or improvement! 🤙
+### Or reach out if you'd just like to chat! 🤙
 ![Image of awkward embrace](https://github.com/ajashams/ajashams/blob/master/hello.gif)
 
 
