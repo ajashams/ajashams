@@ -1,4 +1,4 @@
-### Areas of focus
+## Areas of focus
 - Determine high-level web strategy and define the vision and work our team commits to
 - Identify high impact web opportunities that would improve our site IA, content strategy and brand communications
 - Collaborate across teams to execute and align on strategic decisions 
@@ -12,7 +12,7 @@
 - Informing us of the right teams to cross collaborate with when our work aligns with another (Amanda)
 - Defining a hypothesis for Solution pages across our site (unknown)
 
-## Areas of interest
+### Areas of interest
 - [ ] Improve global navigation + footer
 - [ ] Establish site hierarchy and content strategy (bring Docs closer to Site work)
 - [ ] Update / Optimize flagship pages
