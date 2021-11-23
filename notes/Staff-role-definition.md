@@ -26,4 +26,4 @@
 
 ### Opportunities for overtake
 - Gloss maintainance 
-- Bringing Gloss to older Site pages
+- Updating dated pages with Gloss components
