@@ -1,42 +1,29 @@
-# OMG! A Visitor!! 🙌🏽
+
+### Hi!! I'm a Staff Designer on the Site Design Team 👋🏽 
 ![Image of excited Jake the Dog](https://github.com/ajashams/ajashams/blob/master/excited.gif)
 
-### Hi!! I recently joined GitHub as a Senior Designer 👋🏽 
-![Image of friends laughing in car](https://github.com/ajashams/ajashams/blob/master/hype.gif)
+I like to figure out what users, stakeholders and teams need 👀 <br>
+<br>
+![notebook](https://user-images.githubusercontent.com/63429045/143141922-4839f3db-afbe-4e32-95be-d4162e9a4db6.gif)
 
+And then get shit done ✨ <br>
+<br>
+![rain](https://user-images.githubusercontent.com/63429045/143141936-ce13787c-3a4d-4888-bfab-bdc21be21a39.gif)
 
-### But I have no idea how to code 😅
-![Image of dog surrounded by fire](https://github.com/ajashams/ajashams/blob/master/fine.gif)
+I specialize in UX/UI design, content strategy and marketing 🙂 <br>
+<br>
+![wireframe](https://user-images.githubusercontent.com/63429045/143142379-5e6901a1-330f-498d-a140-5d638cba0237.gif)
 
-
-### Which means I'll be pretending to know how to build things. 🤠
-![Image of things exploding behind man](https://github.com/ajashams/ajashams/blob/master/nothing.gif)
-
-
-### So if I broke something, then I'm sorry 😬  
-![Image of running away](https://github.com/ajashams/ajashams/blob/master/bail.gif)
-
-
-### But I _AM_ pretty good at design! 💅🏽
-![Image of woman flipping hair](https://github.com/ajashams/ajashams/blob/master/beyonce2.gif)
-
-
-### Hit me up if you need design work or want feedback! ✨
-![Image of guy being underwhelmed by design](https://github.com/ajashams/ajashams/blob/master/underwhelmed.gif)
-
-
-### Or reach out if you'd just like to chat! 🤙🏽
-![Image of awkward embrace](https://github.com/ajashams/ajashams/blob/master/hello.gif)
-
-### Nice meeting you! ✌🏽
-![Image of person twirling](https://github.com/ajashams/ajashams/blob/master/twirl.gif)
+Feel free to hit me up if you ever want to chat 🤙🏽 <br>
+<br>
+![getshitdone](https://user-images.githubusercontent.com/63429045/143142420-c79fe289-c917-4eaf-8957-43bf5eaf8c5c.gif)
 
 
 ## More random stuff about me
-- 🦀 - I'm a cancer. So be kind. 
-- 🏡  - I'm from Cincinnati, Ohio and like horrible things like Skyline Chili and the Bengals. And yes, I hate myself for it.
-- 🍻  - I live in Chicago now, which is my favorite place in the world! _(except during the months of Nov – Apr)_
-- ✊🏽  - I'm biracial and believe in equality for all. But on that same note, **Black Lives Matter** and please hire more women.
+- 🦀 - I'm a cancer, twin, and product of a 1st gen immigrant mom from Germany and a black American, military father. Yay!
+- 🏡  - I'm originally from Cincinnati, Ohio and I rep Skyline Chili + the Bengals -- hard. I also hate myself for this.
+- 🍻  - I live in Chicago, love to travel / eat / drink beer / complain about the weather
+- 💯 - I'm a firm advocate for Diversity, Equity and Inclusion and will break the shit out of a door
 - 💬  - I go by she/her/hers
 
 
