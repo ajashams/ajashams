@@ -1,6 +1,6 @@
 
 ### Hi!! I'm a Staff Designer on the Site Design Team 👋🏽 
-![Image of excited Jake the Dog](https://github.com/ajashams/ajashams/blob/master/excited.gif)
+![excited](https://user-images.githubusercontent.com/63429045/143143348-36b3e0c7-8272-4f84-83cd-838a9c96468b.gif)
 
 I like to figure out what users, stakeholders and teams need 👀 <br>
 <br>
